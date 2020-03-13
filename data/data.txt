@@ -8,3 +8,6 @@
   rows: 150
   cols: 5
   type: table
+- path: data/volcano
+  name: volcano
+  type: default
