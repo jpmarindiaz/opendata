@@ -1,0 +1,9 @@
+path:
+- data.csv
+- data.rds
+rows: 50
+cols: 2
+columns:
+  speed: numeric
+  dist: numeric
+type: table
