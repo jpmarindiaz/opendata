@@ -1,0 +1,5 @@
+- path: data/cars
+  name: cars
+  rows: 50
+  cols: 2
+  type: table
